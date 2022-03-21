@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aleks
 - 💻 Math and CS grad, research in robot autonomy, front end developing since 2010
-- 👀 I’m interested in software development, robotics, data analytics, and web development
-- 🌱 I’m currently leveling up my Python, C++, and Java
+- 👀 Interested in software development, robotics, data analytics, and web development
+- 🌱 Currently leveling up my Python rank
 - ⭐ Always updating my Web Dev knowledge 
-- 🧠 Languages: HTML/CSS/JavaScript, jQuery, Ruby, SQL, PHP, Python, Java, C, C++, MATLAB, R
