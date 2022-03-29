@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleks
 - 💻 Math and CS grad, research in robot autonomy, full stack developing since 2010
-- 👀 Interested in software development, robotics, data analytics, and web development
+- 👀 Interested in software development, robotics, data science, and web development
 - 🌱 Currently leveling up my Python rank
 - ⭐ Always updating my Web Dev knowledge 
